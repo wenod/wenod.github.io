@@ -2,3 +2,11 @@ theme: jekyll-theme-minimal
 title: Vinod's Personal Website
 description: Welcome to my personal website and portfolio!
 show_downloads: false
+
+# Custom CSS
+markdown: kramdown
+highlighter: rouge
+
+# Assets
+assets:
+  css: assets/css

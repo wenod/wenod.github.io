@@ -1,6 +1,11 @@
-# Vinod's Personal Website
+---
+layout: default
+title: Home
+---
 
-Welcome to my personal website and portfolio! This site is built with Jekyll and hosted on GitHub Pages.
+# Welcome to My Personal Website
+
+Hello! I'm Vinod, and this is my personal website hosted on GitHub Pages.
 
 ## About Me
 
@@ -8,15 +13,20 @@ I'm a software developer passionate about creating efficient and user-friendly a
 
 ## Projects
 
-Check out my projects showcased on the website:
+Here are some of my recent projects:
 
 - **Project 1**: Description of your first project
 - **Project 2**: Description of your second project
 - **Project 3**: Description of your third project
 
-## Website
+## Skills
 
-Visit the live website: [wenod.github.io](https://wenod.github.io)
+- JavaScript/TypeScript
+- React/Vue
+- Node.js
+- Python
+- Database Design
+- Cloud Technologies
 
 ## Contact
 
@@ -25,3 +35,6 @@ Feel free to reach out to me through:
 - Email: [your.email@example.com](mailto:your.email@example.com)
 - GitHub: [Your GitHub Profile](https://github.com/yourusername)
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+
+---
+*This website is built with Jekyll and hosted on GitHub Pages.*
