@@ -1,66 +1,75 @@
 ---
 layout: default
-title: Projects
+title: Professional Experience
 ---
 
-# My Projects
+# Professional Experience & Key Projects
 
-Here are some of the projects I've worked on:
+## Leadership Roles & Key Achievements
 
-## Project 1: [Project Name]
+### SoftwareOne - Lead Expert, xDC APAC (2024 - Present)
+- Leading cross-functional teams in APAC region for digital transformation initiatives
+- Driving solution architecture for cloud-native and AI-powered solutions
+- Managing client relationships and delivering high-impact technology solutions
 
-![Project 1 Screenshot](/images/project1.png)
+### SoftwareOne - Solutions Consulting, APAC (2023 - 2024)
+- Provided technical leadership for solution design and implementation across APAC markets
+- Developed go-to-market strategies for emerging technology solutions
+- Led presales activities and technical demonstrations for enterprise clients
 
-**Description:** Brief description of what this project does and what technologies were used.
+### Hubbler - Director, NoCode Platform Sales (2022 - 2023)
+- Spearheaded sales and adoption of low-code/no-code platform solutions
+- Built and led high-performing sales teams across multiple regions
+- Developed strategic partnerships with key technology vendors
 
-**Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
+### Spinebiz - Head of Products/Solutions, Presales (2020 - 2022)
+- Led product development and solution design for enterprise clients
+- Managed presales process and technical solution delivery
+- Drove innovation through implementation of cutting-edge technologies
 
-**Technologies Used:**
-- Technology 1
-- Technology 2
-- Technology 3
+### Intign Analytics - Director, Consulting & Delivery (2014 - 2020)
+- Led consulting and delivery teams for analytics and digital transformation projects
+- Designed and implemented data-driven solutions for Fortune 500 clients
+- Built scalable analytics platforms using cloud technologies
 
-[View on GitHub](https://github.com/yourusername/project1) | [Live Demo](https://project1-demo.com)
+### CGI - Engineering Manager & Solutions Architect (2005 - 2014)
+- Led innovation initiatives in cloud computing and mobile technologies
+- Designed and architected enterprise-scale solutions for global clients
+- Mentored engineering teams and drove technical excellence
+
+## Key Technology Focus Areas
+
+### Generative AI Solutions
+- Developed AI-powered solutions for enterprise clients
+- Implemented natural language processing and computer vision applications
+- Created automated content generation and analysis systems
+
+### Cloud Transformation
+- Led cloud migration and modernization initiatives
+- Designed microservices architectures on AWS/Azure platforms
+- Implemented DevOps and CI/CD pipelines for scalable deployments
+
+### Digital Innovation
+- Spearheaded development of mobile and web applications
+- Created data analytics and business intelligence platforms
+- Led implementation of IoT and edge computing solutions
+
+## Strategic Initiatives
+
+### Innovation Programs
+- Established innovation labs for emerging technology evaluation
+- Led R&D initiatives for AI and machine learning applications
+- Created frameworks for rapid prototyping and proof-of-concept development
+
+### Team Building & Leadership
+- Built and scaled high-performing technology teams
+- Developed technical competency frameworks and training programs
+- Mentored junior professionals and fostered culture of continuous learning
+
+### Client Success
+- Delivered transformational technology solutions to enterprise clients
+- Maintained high client satisfaction and retention rates
+- Generated significant revenue growth through successful project delivery
 
 ---
-
-## Project 2: [Project Name]
-
-![Project 2 Screenshot](/images/project2.png)
-
-**Description:** Brief description of what this project does and what technologies were used.
-
-**Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
-
-**Technologies Used:**
-- Technology 1
-- Technology 2
-- Technology 3
-
-[View on GitHub](https://github.com/yourusername/project2) | [Live Demo](https://project2-demo.com)
-
----
-
-## Project 3: [Project Name]
-
-![Project 3 Screenshot](/images/project3.png)
-
-**Description:** Brief description of what this project does and what technologies were used.
-
-**Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
-
-**Technologies Used:**
-- Technology 1
-- Technology 2
-- Technology 3
-
-[View on GitHub](https://github.com/yourusername/project3) | [Live Demo](https://project3-demo.com)
+*Driving technology innovation and business transformation across industries*
