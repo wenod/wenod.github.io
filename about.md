@@ -43,38 +43,29 @@ Focused on Technology Leadership, Sales & Pre-Sales, and Solution Architecture w
 - Channel partner engagement
 - Customer success frameworks
 
-## Professional Experience
+## Technical Skills & Technologies
 
-### SoftwareOne
-**Lead Expert, xDC APAC** | September 2024 - Present | New Delhi, Bengaluru, Kuala Lumpur
-**Solutions Consulting, APAC** | February 2023 - September 2024
+### Programming Languages & Frameworks
+- Python, JavaScript/TypeScript, Java, Go
+- React, Node.js, Express, Django, Flask
+- TensorFlow, PyTorch, Hugging Face Transformers
 
-### Hubbler
-**Director - NoCode Platform Sales** | August 2022 - January 2023 | Bengaluru
+### Cloud & DevOps
+- AWS (EC2, S3, Lambda, RDS, DynamoDB)
+- Azure (Functions, Cosmos DB, App Service)
+- Docker, Kubernetes, Terraform, Ansible
+- CI/CD (GitHub Actions, Jenkins, GitLab CI)
 
-### Spinebiz
-**Head - Products / Solutions, Presales** | July 2020 - July 2022 | Bengaluru
+### Databases & Data Technologies
+- PostgreSQL, MySQL, MongoDB, Redis
+- Elasticsearch, Apache Kafka, Spark
+- Data warehousing and ETL processes
 
-### Intign Analytics
-**Director - Consulting & Delivery** | July 2014 - July 2020 | Bengaluru, DXB
-
-### CGI
-**Engineering Manager (Innovation, Cloud, Mobility) & Solutions Architect** | December 2005 - June 2014 | Bengaluru, London, Copenhagen
-
-### BEA Systems Inc
-**Senior R&D Engineer** | November 2004 - December 2005 | Bangalore
-
-### HP
-**Senior Technical Consultant** | May 2004 - October 2004 | Bangalore
-
-### Mphasis
-**Technical Architect, PM** | February 2003 - May 2004 | Bangalore, Toronto
-
-### NetX / Coherent Solutions
-**Software Engineer, Tech Lead, Corporate Trainer** | March 1997 - February 2003 | Bengaluru
-
-### Devi Academy Higher Secondary School
-**Computer Science Teacher** | June 1996 - March 1997 | Thrissur
+### AI/ML & Data Science
+- Generative AI model development and fine-tuning
+- Computer vision and NLP applications
+- MLOps and model deployment pipelines
+- Data analysis and visualization tools
 
 ## Education
 

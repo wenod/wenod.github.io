@@ -3,73 +3,69 @@ layout: default
 title: Professional Experience
 ---
 
-# Professional Experience & Key Projects
+# Technical Projects & Expertise
 
-## Leadership Roles & Key Achievements
-
-### SoftwareOne - Lead Expert, xDC APAC (2024 - Present)
-- Leading cross-functional teams in APAC region for digital transformation initiatives
-- Driving solution architecture for cloud-native and AI-powered solutions
-- Managing client relationships and delivering high-impact technology solutions
-
-### SoftwareOne - Solutions Consulting, APAC (2023 - 2024)
-- Provided technical leadership for solution design and implementation across APAC markets
-- Developed go-to-market strategies for emerging technology solutions
-- Led presales activities and technical demonstrations for enterprise clients
-
-### Hubbler - Director, NoCode Platform Sales (2022 - 2023)
-- Spearheaded sales and adoption of low-code/no-code platform solutions
-- Built and led high-performing sales teams across multiple regions
-- Developed strategic partnerships with key technology vendors
-
-### Spinebiz - Head of Products/Solutions, Presales (2020 - 2022)
-- Led product development and solution design for enterprise clients
-- Managed presales process and technical solution delivery
-- Drove innovation through implementation of cutting-edge technologies
-
-### Intign Analytics - Director, Consulting & Delivery (2014 - 2020)
-- Led consulting and delivery teams for analytics and digital transformation projects
-- Designed and implemented data-driven solutions for Fortune 500 clients
-- Built scalable analytics platforms using cloud technologies
-
-### CGI - Engineering Manager & Solutions Architect (2005 - 2014)
-- Led innovation initiatives in cloud computing and mobile technologies
-- Designed and architected enterprise-scale solutions for global clients
-- Mentored engineering teams and drove technical excellence
-
-## Key Technology Focus Areas
+## AI & Machine Learning Projects
 
 ### Generative AI Solutions
-- Developed AI-powered solutions for enterprise clients
-- Implemented natural language processing and computer vision applications
-- Created automated content generation and analysis systems
+- Developed AI-powered content generation systems using transformer models
+- Implemented natural language processing pipelines for enterprise applications
+- Created computer vision solutions for image recognition and analysis
+- Built automated document processing and analysis systems
 
-### Cloud Transformation
-- Led cloud migration and modernization initiatives
-- Designed microservices architectures on AWS/Azure platforms
-- Implemented DevOps and CI/CD pipelines for scalable deployments
+### Machine Learning Platforms
+- Designed and deployed scalable ML model serving infrastructure
+- Implemented MLOps pipelines for continuous training and deployment
+- Developed custom machine learning models for specific business use cases
+- Created data preprocessing and feature engineering frameworks
 
-### Digital Innovation
-- Spearheaded development of mobile and web applications
-- Created data analytics and business intelligence platforms
-- Led implementation of IoT and edge computing solutions
+## Cloud & Infrastructure Projects
 
-## Strategic Initiatives
+### Cloud Migration & Modernization
+- Led large-scale cloud migration initiatives to AWS and Azure platforms
+- Designed microservices architectures for scalable application deployment
+- Implemented containerization strategies using Docker and Kubernetes
+- Built infrastructure-as-code solutions with Terraform and Ansible
 
-### Innovation Programs
-- Established innovation labs for emerging technology evaluation
-- Led R&D initiatives for AI and machine learning applications
-- Created frameworks for rapid prototyping and proof-of-concept development
+### DevOps & Automation
+- Created comprehensive CI/CD pipelines for automated testing and deployment
+- Implemented monitoring and observability solutions for distributed systems
+- Developed automated scaling and load balancing configurations
+- Built disaster recovery and high-availability architectures
 
-### Team Building & Leadership
-- Built and scaled high-performing technology teams
-- Developed technical competency frameworks and training programs
-- Mentored junior professionals and fostered culture of continuous learning
+## Full-Stack Development Projects
 
-### Client Success
-- Delivered transformational technology solutions to enterprise clients
-- Maintained high client satisfaction and retention rates
-- Generated significant revenue growth through successful project delivery
+### Web & Mobile Applications
+- Developed responsive web applications using React and modern JavaScript frameworks
+- Built mobile applications with cross-platform development tools
+- Created progressive web apps with offline capabilities and push notifications
+- Implemented real-time features using WebSockets and server-sent events
+
+### Data & Analytics Platforms
+- Designed and built data warehousing solutions for business intelligence
+- Created ETL pipelines for data processing and transformation
+- Developed real-time analytics dashboards and reporting systems
+- Built data visualization tools for complex datasets
+
+## Technical Methodologies & Practices
+
+### Agile Development & DevOps
+- Implemented Scrum and Kanban methodologies for efficient project delivery
+- Established CI/CD practices for continuous integration and deployment
+- Created automated testing frameworks for quality assurance
+- Developed documentation standards and knowledge sharing processes
+
+### Architecture & Design Patterns
+- Designed and implemented microservices architecture patterns
+- Applied domain-driven design principles for complex systems
+- Implemented event-driven architectures for scalable applications
+- Created API-first design approaches for system integration
+
+### Performance & Scalability
+- Optimized application performance through profiling and tuning
+- Implemented caching strategies for high-traffic applications
+- Designed scalable database architectures for large datasets
+- Built monitoring and alerting systems for production environments
 
 ---
 *Driving technology innovation and business transformation across industries*

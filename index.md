@@ -17,23 +17,22 @@ I specialize in driving end-to-end tech initiatives - from solutioning and sales
 
 ---
 
-## Professional Experience
+## Technical Expertise
 
-### SoftwareOne
-**Lead Expert, xDC APAC** | September 2024 - Present
-Solutions Consulting, APAC | February 2023 - September 2024
+### Generative AI & Machine Learning
+- AI-powered solution development and implementation
+- Natural language processing and computer vision applications
+- Automated content generation and analysis systems
 
-### Hubbler
-**Director - NoCode Platform Sales** | August 2022 - January 2023
+### Cloud & Infrastructure
+- Cloud migration and modernization initiatives
+- Microservices architecture design (AWS/Azure platforms)
+- DevOps and CI/CD pipeline implementation
 
-### Spinebiz
-**Head - Products / Solutions, Presales** | July 2020 - July 2022
-
-### Intign Analytics
-**Director - Consulting & Delivery** | July 2014 - July 2020
-
-### CGI
-**Engineering Manager & Solutions Architect** | December 2005 - June 2014
+### Full-Stack Development
+- End-to-end product development and scaling
+- Mobile and web application development
+- Data analytics and business intelligence platforms
 
 ---
 
@@ -41,8 +40,6 @@ Solutions Consulting, APAC | February 2023 - September 2024
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponmanadiyil)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wenod)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinodis@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919900143232)
 
 ---
 *Transforming businesses through technology innovation*
